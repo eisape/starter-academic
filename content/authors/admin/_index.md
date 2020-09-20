@@ -1,6 +1,6 @@
 ---
 title: Tiwalayo Eisape
-role: ""
+role: lastname / mit / edu
 avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
