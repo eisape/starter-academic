@@ -1,7 +1,7 @@
 ---
 title: Tiwalayo Eisape
 role: ""
-avatar_filename: qt.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
