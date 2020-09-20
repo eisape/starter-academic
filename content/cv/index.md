@@ -13,4 +13,4 @@ header:
   caption: ""
   image: ""
 ---
-{{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vRjae544ZZnSN6SC0yiYT8Q_vwCLTPKyd88MLVfEBCVj61758y6Fhcb5-NYGZyOJhBEILF-oB6lgDsc/pub?embedded=true" >}}
+{{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vRjae544ZZnSN6SC0yiYT8Q_vwCLTPKyd88MLVfEBCVj61758y6Fhcb5-NYGZyOJhBEILF-oB6lgDsc/pub?embedded=true" height="315px">}}
