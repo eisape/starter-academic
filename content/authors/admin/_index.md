@@ -9,7 +9,7 @@ superuser: true
 authors:
   - admin
 bio: ""
-interests:
+# interests:
   - ""
 social:
   - icon: twitter
@@ -21,8 +21,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/eisape
-education:
-  courses: []
+# education:
+#   courses: []
 email: ""
 user_groups:
   - Researchers
