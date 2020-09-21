@@ -9,7 +9,6 @@ superuser: true
 authors:
   - admin
 bio: ""
-interests:
   - ""
 social:
   - icon: twitter
