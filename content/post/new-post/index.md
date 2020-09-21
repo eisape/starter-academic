@@ -1,25 +1,24 @@
 ---
-title: new post
+title: Computational Cogntiive Science
+subtitle: subtitle
 date: 2020-09-20T16:48:05.183Z
-summary: a short summary
+summary: the sumarry goes here
 draft: false
 featured: false
 authors:
-  - me
-  - friend
-  - homie
+  - "Instr: Joshua Tenenbaum"
 tags:
-  - distillation
-  - ML
+  - Machine Learning
+  - Artificial Intelligence
 categories:
-  - cat1
-  - cat2
+  - Computer Science
+  - Cognitive Science
 projects:
-  - proj
+  - ""
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: captions!
+  caption: cocosci.mit.edu/
 ---
 some post body
