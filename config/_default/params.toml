@@ -24,6 +24,7 @@ day_night = false
 #   Browse user installed font sets in `data/fonts/`
 font = ""
 
+ai = true
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "S"
