@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "43 Vassar St.", city = "Cambridge", region = "MA", postcode = "02139", country = "United States", country_code = "US"}
+
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -114,10 +114,11 @@ office_hours = []
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/mi_tiwa"},
   {icon = "calendar-plus", icon_pack = "fas", name = "youcanbook.me", link = "https://tiwa.youcanbook.me/"},
-  {icon = "at", icon_pack = "fas", name = "lastname / at / mit", link = "https://discourse.gohugo.io"},
+  {icon = "envelope", icon_pack = "fas", name = "lastname / at / mit", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
+address = {street = "43 Vassar St.", city = "Cambridge", region = "MA", postcode = "02139", country = "United States", country_code = "US"}
 ############################
 ## Social
 ############################
@@ -264,7 +265,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  engine = 2
   api_key = ""
   zoom = 15
 
