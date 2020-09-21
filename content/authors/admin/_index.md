@@ -1,13 +1,13 @@
 ---
 title: Tiwalayo Eisape
 role: Brain & Cognitive Sciences
-avatar_filename: avatar.jpg
 organizations:
-  - name: MIT
+  - name: Massachusetts Institute of Technology
     url: ""
 superuser: true
 authors:
   - admin
+avatar_filename: avatar.jpg
 bio: ""
 social:
   - icon: twitter
@@ -19,6 +19,9 @@ social:
   - icon: github-alt
     icon_pack: fab
     link: https://github.com/eisape
+  - link: https://www.linkedin.com/in/eisape/
+    icon_pack: fab
+    icon: linkedin-in
 email: ""
 user_groups:
   - Researchers
