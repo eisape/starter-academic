@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cloze Distillation"
-authors: []
+title: "Cloze Distillation Improves Psychometric Predictive Power"
+authors: [Tiwalayo Eisape, Noga Zaslavsky, Roger Levy]
 date: 2020-09-21T09:51:54-04:00
 doi: ""
 
@@ -13,19 +13,20 @@ publishDate: 2020-09-21T09:51:54-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Cloze Distillation Improves Psychometric Predictive Power"
 publication_short: ""
 
-abstract: ""
+abstract: "Training models on next word prediction (NWP) has led to significant developments in general-purpose language models (LMs). However, this objective lacks cognitive motivation under theories of language processing that show human prediction to be graded, parallel, and scaffolded. Here, we present new evidence that challenge the ability of the NWP task to generate LMs with human-like predictive capacities. First, we compare state-of-the-art transformer LMs with a simple LSTM model, and show that while the transformer models achieve better performance in both NWP and prediction of human cloze completions for the Provo corpus, the LSTM model provides a better account of human reading times on the same corpus. This reveals a disassociation between human language processing and NWP.
+On that basis, we propose Cloze Distillation: a novel method for distilling the linguistic information that is implicit in human cloze completions into pre-trained LMs. We apply this method to the LSTM model and show substantial improvement in reading time prediction, word frequency estimation, and generalization to held-out human cloze data. Our results identify the direct modeling of human psychometric data as an effective potential method for creating more psychometrically-valid LMs."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
+tags: [Deep Learning, NLP, Prediction]
+categories: [Artificial Intelligence]
 featured: false
 
 # Custom links (optional).
