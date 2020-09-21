@@ -3,7 +3,7 @@ title: Tiwalayo Eisape
 role: Brain & Cognitive Sciences
 avatar_filename: avatar.jpg
 organizations:
-  - name: Massachusetts Institute of Technology
+  - name: MIT
     url: ""
 superuser: true
 authors:
