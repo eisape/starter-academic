@@ -16,7 +16,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=1FI8NfEAAAAJ&hl=en&oi=ao
-  - icon: github
+  - icon: github-alt
     icon_pack: fab
     link: https://github.com/eisape
 email: ""
