@@ -9,7 +9,7 @@ superuser: true
 authors:
   - admin
 bio: ""
-# interests:
+
   - ""
 social:
   - icon: twitter
@@ -21,11 +21,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/eisape
-# education:
-#   courses: []
+ education:
+   courses: []
 email: ""
 user_groups:
   - Researchers
   - Visitors
 ---
-I am a second-year PhD student at MIT Brain and Cognitive Sciences where I investigate the way the brain represents the world via cognitive modeling. Specifically, I use language as a window into the mind and language models as candidate models of human language processing. Prior to MIT I completed a B.S in  Computer Science at Boston College under the supervision of   Joshua Hartshorne and Stefano Anzellotti.
+I am a second-year PhD student at MIT Brain and Cognitive Sciences where I investigate the way the brain represents the world via cognitive modeling. Specifically, I use language as a window into the mind and language models as candidate models of human language processing. Prior to MIT I completed a B.S in  Computer Science at Boston College under the supervision of Joshua Hartshorne and Stefano Anzellotti.
