@@ -11,7 +11,7 @@ avatar_filename: avatar.jpg
 bio: ""
 social:
   - icon: graduation-cap
-    icon_pack: far
+    icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=1FI8NfEAAAAJ&hl=en&oi=ao
   - icon: twitter
     icon_pack: fab
