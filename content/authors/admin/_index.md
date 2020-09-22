@@ -10,8 +10,8 @@ authors:
 avatar_filename: avatar.jpg
 bio: ""
 social:
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: far
     link: https://scholar.google.co.uk/citations?user=1FI8NfEAAAAJ&hl=en&oi=ao
   - icon: twitter
     icon_pack: fab
