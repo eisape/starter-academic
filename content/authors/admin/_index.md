@@ -27,4 +27,8 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a second-year PhD student at MIT Brain and Cognitive Sciences where I investigate the way the brain represents the world via cognitive modeling. Specifically, I use language as a window into the mind and language models as candidate models of human language processing. Prior to MIT I completed a B.S in  Computer Science at Boston College under the supervision of Joshua Hartshorne and Stefano Anzellotti.
+I'm a second-year PhD student in the [Computational Psycholinguistics Lab](http://cpl.mit.edu/) at [MIT, Brain & Cognitive Sciences](https://bcs.mit.edu/) where I use (1) language models as candidate models of human language processing (i.e. use them as psycholinguistic hypothesis generators) and (2) insights from human language processing to make better computational models. I am a [GEM Full Fellow](https://www.gemfellowship.org/students/gem-fellowship-program/) and a [Dean of Sciences Fellow](https://science.mit.edu/about/awards/deans-fellowship-program/).
+
+Prior to MIT, I was a [Ronald E. McNair Scholar](https://mcnairscholars.com/) in Computer Science at Boston College where I worked with the [Language Learning Lab](http://l3atbc.org/) and the [Social and Cognitive Computational Neuroscience Lab](https://sccnlab.bc.edu/). I've also spent time working at the intersection of vision and language with the [Vimeo Applied Machine Leaning Group](https://vimeo.com/).
+
+I'm passionate about increasing representation in STEM. If you're an unrepresented minority considering joining the field please [reach out](https://eisa.pe/#contact)!
