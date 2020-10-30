@@ -114,8 +114,8 @@ office_hours = []
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/mi_tiwa"},
-  {icon = "calendar-plus", icon_pack = "fas", name = "youcanbook.me", link = "https://tiwa.youcanbook.me/"},
-  {icon = "envelope", icon_pack = "fas", name = "lastname / at / mit", link = "https://discourse.gohugo.io"},
+  #{icon = "calendar-plus", icon_pack = "fas", name = "youcanbook.me", link = "https://tiwa.youcanbook.me/"},
+  {icon = "envelope", icon_pack = "fas", name = "lastname / at / mit", link = "https://discourse.gohugo.io"}
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
