@@ -31,4 +31,4 @@ I'm a second-year PhD student in the [Computational Psycholinguistics Lab](http:
 
 Prior to MIT, I was a [Ronald E. McNair Scholar](https://mcnairscholars.com/) in Computer Science at Boston College where I worked with the [Language Learning Lab](http://l3atbc.org/) and the [Social and Cognitive Computational Neuroscience Lab](https://sccnlab.bc.edu/). I've also spent time working at the intersection of vision and language with the [Vimeo Applied Machine Learning Group](https://vimeo.com/).
 
-I'm passionate about increasing representation in STEM. If you're an unrepresented minority considering joining the field, I happy to give advice and/or read materials. Please [reach out](https://eisa.pe/#contact)!
+I'm passionate about increasing representation in STEM. If you're an unrepresented minority considering joining the field, I'm happy to give advice and/or read materials. Please [reach out](https://eisa.pe/#contact)!
